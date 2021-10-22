@@ -1,1 +1,49 @@
- 
+body {
+  font-size: 20px;
+  font-family: Georgia;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+.base {
+  background-color: #eeeeee;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.base header {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.bloco1 {
+  background-color: orange;
+  width: 200px;
+  float: left;
+}
+
+.bloco2 {
+  background-color: green;
+  width: 50%;
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.bloco2 img {
+  margin: 0 10px 10px 0;
+  float: left;
+}
+
+.bloco3 {
+  background-color: red;
+  width: 200px;
+  float: left;
+}
